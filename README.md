@@ -5,6 +5,7 @@ This is a simple Flutter application with a **light purple background** and butt
 ---
 
 📱 Features
+
 ✅ Displays buttons to open a GitHub repository and a website  
 ✅ Uses **url_launcher** to open links  
 ✅ Works on both **Android & iOS**  
